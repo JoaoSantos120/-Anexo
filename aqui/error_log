@@ -1,0 +1,20 @@
+[16-Nov-2021 19:04:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home2/profro26/public_html/suachance/conexao.php:19
+Stack trace:
+#0 /home2/profro26/public_html/suachance/login.php(5): login('rodolfop.araujo...', '123')
+#1 {main}
+  thrown in /home2/profro26/public_html/suachance/conexao.php on line 19
+[16-Nov-2021 19:04:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home2/profro26/public_html/suachance/conexao.php:19
+Stack trace:
+#0 /home2/profro26/public_html/suachance/login.php(5): login('rodolfop.araujo...', '123')
+#1 {main}
+  thrown in /home2/profro26/public_html/suachance/conexao.php on line 19
+[16-Nov-2021 19:04:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home2/profro26/public_html/suachance/conexao.php:18
+Stack trace:
+#0 /home2/profro26/public_html/suachance/login.php(5): login('rodolfop.araujo...', '123')
+#1 {main}
+  thrown in /home2/profro26/public_html/suachance/conexao.php on line 18
+[16-Nov-2021 19:05:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home2/profro26/public_html/suachance/conexao.php:19
+Stack trace:
+#0 /home2/profro26/public_html/suachance/login.php(5): login('rodolfop.araujo...', '123')
+#1 {main}
+  thrown in /home2/profro26/public_html/suachance/conexao.php on line 19
